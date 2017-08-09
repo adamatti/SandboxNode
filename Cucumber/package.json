@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "./node_modules/.bin/cucumber.js --format json:cucumber.json"
+    },
+    "dependencies": {
+        "cucumber": "1.2.1",
+        "expect.js": "^0.3.1"
+    }
+}

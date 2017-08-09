@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start":"node index.js"
+    },
+    "dependencies": {
+        "amqplib": "^0.5.1",
+        "caller-id": "^0.1.0",
+        "string": "^3.3.3",
+        "uuid-v4": "^0.1.0"
+    }
+}

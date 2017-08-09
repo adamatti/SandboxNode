@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "hapi": "^16.5.2",
+        "hapi-harvester": "^0.5.1",
+        "joi": "^10.6.0",
+        "susie": "^2.0.0",
+        "url": "^0.11.0"
+    }
+}

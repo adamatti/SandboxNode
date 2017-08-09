@@ -1,0 +1,9 @@
+version: '2'
+services:
+  db: 
+    image: 'mongo:3.4.7'
+    #image: 'sunminghong/mongo-replset:3.2'
+    ports:
+      - "27017:27017"
+    expose:
+      - 27017

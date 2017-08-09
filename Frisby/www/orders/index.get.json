@@ -1,0 +1,9 @@
+//! contentType: "application/json"
+{
+    "orders": [
+        {
+            "id":1,
+            "description":"Sample"
+        }
+    ]
+}

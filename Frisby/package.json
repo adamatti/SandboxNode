@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "node index.js",
+        "test":"jasmine-node test --junitreport"
+    },
+    "dependencies": {
+        "canned": "^0.3.10",
+        "frisby": "0.8.5",
+        "jasmine": "^2.7.0",
+        "jasmine-node": "^1.14.5"
+    }
+}

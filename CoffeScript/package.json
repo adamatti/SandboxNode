@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "compile": "coffee -c -o dist/ index.coffee",
+        "start": "npm run compile; node dist/index.js"
+    },
+    "dependencies": {
+        "cake": "^0.1.1",
+        "coffeescript": "^1.12.7"
+    }
+}

@@ -1,0 +1,7 @@
+### Why Node?
+* https://www.quora.com/Why-do-you-choose-Node-js-nowadays-to-create-microservices/answer/Tiago-R-de-Oliveira[Quora]
+
+### Links
+* https://yarnpkg.com/en[Yarn]
+* https://www.npmjs.com/package/http-server[http-server]
+* https://github.com/haskellcamargo/gemidao-do-zap[Useless projects]
