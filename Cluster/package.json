@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cluster": "^0.7.7",
+        "net": "^1.0.2"
+    }
+}

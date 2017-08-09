@@ -1,0 +1,8 @@
+version: "2"
+services:
+  cache:
+    image: "redis:4.0.1-alpine"
+    ports: 
+      - "6379:6379"
+    expose:
+      - "6379"
