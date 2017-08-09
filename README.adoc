@@ -1,7 +1,10 @@
+A set of small projects / libs to compose an app and help on talks
+
 ### Why Node?
+* https://adamatti.github.io/blog/node/2017/06/14/why-node.html[Iniciando com Node]
 * https://www.quora.com/Why-do-you-choose-Node-js-nowadays-to-create-microservices/answer/Tiago-R-de-Oliveira[Quora]
 
-### Links
+### Libs / Tools / Projects
 * https://yarnpkg.com/en[Yarn]
 * https://www.npmjs.com/package/http-server[http-server]
 * https://github.com/haskellcamargo/gemidao-do-zap[Useless projects]
