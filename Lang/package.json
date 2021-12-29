@@ -1,0 +1,13 @@
+{
+  "license": "Unlicense",
+  "scripts": {
+    "test": "jest test --passWithNoTests",
+    "lint": "eslint 'src/**/*.js'"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "eslint": "^8.5.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^27.4.5"
+  }
+}
