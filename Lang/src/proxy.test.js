@@ -9,10 +9,11 @@ describe('proxy tests', ()=> {
     const proxy = new Proxy(user, {
       get: (obj, prop) => {
         getfn(obj, prop);
+        return Reflect.get(obj, prop);
       },
       set: (obj, prop, value) => {
         setfn(obj, prop, value);
-        Reflect.set(obj, prop, value);
+        return Reflect.set(obj, prop, value);
       },
     });
     proxy.name = 'Adamatti';
